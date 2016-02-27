@@ -1,1 +1,1 @@
-# docker-latex
+Dockerfile for some special use cases.
